@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="EXXIS" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Conversion Entrega" ExtVersion="0.1.0.0" Contdata="https://www.exxis-group.com/" Partner="EXXIS Perú" DBType="HANA" ClientType="W">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="Conversion Entrega" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="AddonConEntrega.exe" AddonSig="17275C9B6D7EBD154E2E5CE8F065AFE5" ExeDir="X86Client">
+        <Installation>
+          <Files>
+            <File FileName="X86Client\AddonConEntrega.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\AddonConEntrega.pdb">
+              <Actions />
+            </File>
+            <File FileName="X86Client\BouncyCastle.Crypto.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\BouncyCastle.Crypto.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\ICSharpCode.SharpZipLib.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X86Client\AddonConEntrega.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\AddonConEntrega.pdb">
+              <Actions />
+            </File>
+            <File FileName="X86Client\BouncyCastle.Crypto.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\BouncyCastle.Crypto.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\ICSharpCode.SharpZipLib.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="AddonConEntrega.exe" AddonSig="AF5F31E69C3E0FCF373E261296634753" ExeDir="X64Client">
+        <Installation>
+          <Files>
+            <File FileName="X64Client\AddonConEntrega.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\AddonConEntrega.pdb">
+              <Actions />
+            </File>
+            <File FileName="X64Client\BouncyCastle.Crypto.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\BouncyCastle.Crypto.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\ICSharpCode.SharpZipLib.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X64Client\AddonConEntrega.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\AddonConEntrega.pdb">
+              <Actions />
+            </File>
+            <File FileName="X64Client\BouncyCastle.Crypto.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\BouncyCastle.Crypto.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\ICSharpCode.SharpZipLib.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
