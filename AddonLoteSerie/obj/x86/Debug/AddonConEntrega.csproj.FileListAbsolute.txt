@@ -1,0 +1,23 @@
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\bin\x86\Debug\AddonConEntrega.exe
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\bin\x86\Debug\AddonConEntrega.pdb
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.csprojAssemblyReference.cache
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.csproj.ResolveComReference.cache
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.Properties.Resources.resources
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.csproj.GenerateResource.cache
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.csproj.CoreCompileInputs.cache
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.exe
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.pdb
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\bin\x86\Debug\AddonConEntrega.exe.config
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\bin\x86\Debug\AddonConEntrega.exe
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\bin\x86\Debug\AddonConEntrega.pdb
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.Properties.Resources.resources
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.exe
+C:\Users\Administrador\Documents\lushianna\ConversionEntrega\AddonLoteSerie\obj\x86\Debug\AddonConEntrega.pdb

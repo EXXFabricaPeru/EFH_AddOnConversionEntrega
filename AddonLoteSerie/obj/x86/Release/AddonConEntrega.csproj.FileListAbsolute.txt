@@ -1,0 +1,11 @@
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\bin\x86\Release\AddonConEntrega.exe
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\bin\x86\Release\AddonConEntrega.pdb
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\AddonConEntrega.csproj.ResolveComReference.cache
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\AddonConEntrega.Properties.Resources.resources
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\AddonConEntrega.csproj.GenerateResource.cache
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\AddonConEntrega.csproj.CoreCompileInputs.cache
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\AddonConEntrega.exe
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\AddonConEntrega.pdb
+C:\Users\devsap03\source\repos\devrruiz\efh_produccion\2 Implementacion\AddOns\ConversionEntrega\AddonLoteSerie\obj\x86\Release\AddonConEntrega.csprojAssemblyReference.cache
